@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 108" role="img" aria-labelledby="title desc">
+  <title id="title">PleioTAXy brand mark</title>
+  <desc id="desc">Connected geometric tax technology mark in deep indigo, cool cyan, and silver gray.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.6">
+    <path d="M50 9 L18 30" stroke="#00C6E6"/>
+    <path d="M50 9 L82 30" stroke="#00C6E6"/>
+    <path d="M50 9 L50 48" stroke="#00C6E6"/>
+    <path d="M18 30 L50 48" stroke="#0D1B4C"/>
+    <path d="M82 30 L50 48" stroke="#0D1B4C"/>
+    <path d="M18 30 L18 59" stroke="#0D1B4C"/>
+    <path d="M82 30 L82 59" stroke="#0D1B4C"/>
+    <path d="M18 59 L50 80" stroke="#00C6E6"/>
+    <path d="M82 59 L50 80" stroke="#00C6E6"/>
+    <path d="M50 48 L18 79" stroke="#A7ADB8"/>
+    <path d="M50 48 L82 79" stroke="#A7ADB8"/>
+    <path d="M18 79 L50 99" stroke="#A7ADB8"/>
+    <path d="M82 79 L50 99" stroke="#A7ADB8"/>
+  </g>
+  <g>
+    <circle cx="50" cy="9" r="6.7" fill="#00C6E6"/>
+    <circle cx="18" cy="30" r="6.5" fill="#0D1B4C"/>
+    <circle cx="82" cy="30" r="6.5" fill="#0D1B4C"/>
+    <circle cx="50" cy="48" r="6.8" fill="#0D1B4C"/>
+    <circle cx="18" cy="59" r="6.5" fill="#0D1B4C"/>
+    <circle cx="82" cy="59" r="6.5" fill="#0D1B4C"/>
+    <circle cx="18" cy="79" r="6.5" fill="#A7ADB8"/>
+    <circle cx="82" cy="79" r="6.5" fill="#A7ADB8"/>
+    <circle cx="50" cy="80" r="6.7" fill="#00C6E6"/>
+    <circle cx="50" cy="99" r="6.5" fill="#A7ADB8"/>
+  </g>
+</svg>
