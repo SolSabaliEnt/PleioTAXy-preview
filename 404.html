@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PleioTAXy</title>
+  </head>
+  <body>
+    <script>
+      (function () {
+        var redirectKey = 'pleiotaxy:spa-deep-link';
+        var target = window.location.pathname + window.location.search + window.location.hash;
+        try {
+          window.sessionStorage.setItem(redirectKey, target);
+        } catch (error) {
+          // If sessionStorage is unavailable, root still provides a safe entry point.
+        }
+        window.location.replace(window.location.origin + '/');
+      }());
+    </script>
+    <noscript><a href="/">Open PleioTAXy</a></noscript>
+  </body>
+</html>
